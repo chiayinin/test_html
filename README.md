@@ -3,7 +3,7 @@
 ## DEMO
 - 網頁(使用Heroku部署)：https://testtesthtml.herokuapp.com/index.html
 - 圖片
-![](https://i.imgur.com/IdR1UQW.jpg)
+![](https://i.imgur.com/IdR1UQW.jpg =70%x)
 
 ## 參考圖片
 ![](https://i.imgur.com/Aok8cOb.png)
